@@ -1,0 +1,88 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+  height: 100vh;
+  background: -webkit-gradient(linear, left top, left bottom, from(#2d2d2d), to(#0f0f0f));
+  background: linear-gradient(#2d2d2d, #0f0f0f);
+}
+
+.key-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 60px 24px;
+  margin: 0 auto;
+}
+
+.key {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 75px;
+  height: 100px;
+  background: #2a2a2a;
+  border-radius: 5px;
+  margin: 6px;
+  -webkit-box-shadow: inset 0px 0px 25px rgba(62, 62, 62, 0.2), -2px -2px 3px #3e3e3e, 2px 2px 3px #0f0f0f;
+          box-shadow: inset 0px 0px 25px rgba(62, 62, 62, 0.2), -2px -2px 3px #3e3e3e, 2px 2px 3px #0f0f0f;
+  color: white;
+  cursor: pointer;
+  -webkit-transition: all 0.05s;
+  transition: all 0.05s;
+}
+
+.key__indicator {
+  width: 35px;
+  height: 10px;
+  background: #282828;
+  border-radius: 100px;
+  -webkit-box-shadow: inset -2px -2px 2px #3e3e3e, inset 2px 2px 2px #0f0f0f;
+          box-shadow: inset -2px -2px 2px #3e3e3e, inset 2px 2px 2px #0f0f0f;
+}
+
+.active > .key__indicator {
+  background: #aee023;
+  -webkit-box-shadow: inset -2px -2px 2px #dbdf15, inset 2px 2px 2px #abad1f, 0px 0px 5px #aee023;
+          box-shadow: inset -2px -2px 2px #dbdf15, inset 2px 2px 2px #abad1f, 0px 0px 5px #aee023;
+}
+
+.key__value {
+  font-size: 32px;
+  margin: 6px 0;
+}
+
+.key__instrument {
+  font-size: 12px;
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=main.css.map */
