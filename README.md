@@ -7,5 +7,6 @@ I'll be storing my own projects as I complete them below.
 ## Project list
 
 1. Javascript Drum Kit - [check it out!](https://senatrius.github.io/javascript-30/01%20-%20JavaScript%20Drum%20Kit/)
+2. JS and CSS Clock - [check it out!](https://senatrius.github.io/javascript-30/02%20-%20JS%20and%20CSS%20Clock/)
 
 Next project coming soon...
