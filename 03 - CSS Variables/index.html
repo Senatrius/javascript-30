@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CSS Variables | Javascript30 - Day 3</title>
+
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet"> 
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <h1 class="title">Update <span class="text-color text-hue">CSS</span> Variables with <span class="text-color">JS</span></h1>
+
+  <main class="wrapper">
+    <div class="settings">
+      <div class="settings-block">
+        <label for="border-width">Border width:</label>
+        <input type="range" min="0" max="50" value="0" data-unit="px" id="border-width">
+      </div>
+      <div class="settings-block">
+        <label for="border-radius">Border radius:</label>
+        <input type="range" min="0" max="500" value="0" data-unit="px" id="border-radius">
+      </div>
+      <div class="settings-block">
+        <label for="border-color">Border color:</label>
+        <input type="color" id="border-color" value="#ffffff" data-unit="">
+      </div>
+      <div class="settings-block">
+        <label for="blur">Blur amount:</label>
+        <input type="range" min="0" max="50" value="0" data-unit="px" id="blur">
+      </div>
+      <div class="settings-block">
+        <label for="hue">Hue shift:</label>
+        <input type="range" min="0" max="360" value="0" data-unit="deg" id="hue">
+      </div>
+    </div>
+
+    <img src="http://unsplash.it/500/350" alt="specimen" class="image">
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
