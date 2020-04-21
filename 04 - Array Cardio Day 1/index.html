@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 3 - Array Cardio 1</title>
+
+  <link rel="stylesheet" href="css/main.css">
+</head>
+<body>
+  <div class="wrapper">
+    <p class="direction"><em>Psst! Check out the console to see the results.</em></p>
+
+    <main class="controls">
+      <button class="btn" onclick="bornIn1500s()">Inventors born in 1500's</button>
+      <button class="btn" onclick="inventorNames()">Full inventor names</button>
+      <button class="btn" onclick="sortByBirth()">Sort by birth year</button>
+      <button class="btn" onclick="totalYears()">Total years inventors lived</button>
+      <button class="btn" onclick="sortByLifetime()">Sort by lifetime</button>
+      <button class="btn" onclick="sortBoulevards()">Sort boulevards</button>
+      <button class="btn" onclick="sortPeopleByLastName()">Sort by last name</button>
+      <button class="btn" onclick="countInstances()">Count instances of transport</button>
+    </main>
+
+    <section class="instructions">
+      <p>To successfully run the "Sort Boulevards" command, go <a href="https://en.wikipedia.org/wiki/Category:Boulevards_in_Paris">here</a> and run the below code in the console</p>
+      <code class="code">
+const category = document.querySelector('.mw-category');
+const links = Array.from(category.querySelectorAll('a');
+
+const de = links
+           .map(link => link.textContent)
+           .filter(streetName => streetName.includes('de'));</code>
+    </section>
+  </div>
+
+  <script src="scripts.js"></script>
+</body>
+</html>
