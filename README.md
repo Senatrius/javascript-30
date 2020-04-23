@@ -11,5 +11,6 @@ I'll be storing my own projects as I complete them below.
 3. CSS Variables - [check it out!](https://senatrius.github.io/javascript-30/03%20-%20CSS%20Variables/)
 4. Array Cardio Day 1 - [check it out!](https://senatrius.github.io/javascript-30/04%20-%20Array%20Cardio%20Day%201/)
 5. Flex Panel Gallery - [check it out!](https://senatrius.github.io/javascript-30/05%20-%20Flex%20Panel%20Gallery/)
+6. Type Ahead - [check it out!](https://senatrius.github.io/javascript-30/06%20-%20Type%20Ahead/)
 
 Next project coming tomorrow...
