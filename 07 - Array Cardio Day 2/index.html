@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 7 - Array Cardio 2</title>
+
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <div class="wrapper">
+    <p class="direction"><em>Psst! Check out the console to see the results.</em></p>
+
+    <main class="controls">
+      <div class="input-block">
+        <label for="id" class="id-label">Enter ID:</label>
+        <input id="id" class="id-input" type="text" placeholder="823423">
+      </div>
+      <button class="btn" onclick="someAbove18()">Some above age 18?</button>
+      <button class="btn" onclick="allAbove18()">All above age 18?</button>
+      <button class="btn" onclick="findById()">Find by ID</button>
+      <button class="btn" onclick="deleteById()">Delete by ID</button>
+    </main>
+  </div>
+
+  <script src="scripts.js"></script>
+  <script>
+    // ## Array Cardio Day 2
+
+    // Some and Every Checks
+    // Array.prototype.some() // is at least one person 19 or older?
+    // Array.prototype.every() // is everyone 19 or older?
+
+    // Array.prototype.find()
+    // Find is like filter, but instead returns just the one you are looking for
+    // find the comment with the ID of 823423
+
+    // Array.prototype.findIndex()
+    // Find the comment with this ID
+    // delete the comment with the ID of 823423
+
+  </script>
+</body>
+</html>
