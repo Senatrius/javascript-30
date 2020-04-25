@@ -13,5 +13,6 @@ I'll be storing my own projects as I complete them below.
 5. Flex Panel Gallery - [check it out!](https://senatrius.github.io/javascript-30/05%20-%20Flex%20Panel%20Gallery/)
 6. Type Ahead - [check it out!](https://senatrius.github.io/javascript-30/06%20-%20Type%20Ahead/)
 7. Array Cardio Day 2 - [check it out!](https://senatrius.github.io/javascript-30/07%20-%20Array%20Cardio%20Day%202/)
+8. Fun with HTML5 Canvas - [check it out!](https://senatrius.github.io/javascript-30/08%20-%20Fun%20with%20HTML5%20Canvas/)
 
 Next project coming tomorrow...
