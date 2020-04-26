@@ -14,5 +14,6 @@ I'll be storing my own projects as I complete them below.
 6. Type Ahead - [check it out!](https://senatrius.github.io/javascript-30/06%20-%20Type%20Ahead/)
 7. Array Cardio Day 2 - [check it out!](https://senatrius.github.io/javascript-30/07%20-%20Array%20Cardio%20Day%202/)
 8. Fun with HTML5 Canvas - [check it out!](https://senatrius.github.io/javascript-30/08%20-%20Fun%20with%20HTML5%20Canvas/)
+9. Dev Tools Domination - [check it out!](https://senatrius.github.io/javascript-30/09%20-%20Dev%20Tools%20Domination/)
 
 Next project coming tomorrow...
