@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Day 9 - Console Tricks!</title>
+
+  <link rel="stylesheet" href="main.css">
+</head>
+<body>
+  <div class="wrapper">
+    <p class="direction"><em>Psst! Check out the console to see the results.</em></p>
+
+    <div class="input-block">
+      <label for="api" class="api-label">Enter API address:</label>
+      <input id="api" class="api-input" type="text" value="https://api.github.com/users/senatrius" placeholder="https://api.github.com/users/[your_username]">
+    </div>
+    <main class="controls">
+      <button class="btn" onclick="changeBtn()">Change button style</button>
+      <button class="btn" onclick="regular()">Regular console</button>
+      <button class="btn" onclick="interpolated()">Interpolated console</button>
+      <button class="btn" onclick="styled()">Styled console</button>
+      <button class="btn" onclick="warning()">Console warning</button>
+      <button class="btn" onclick="error()">Console error</button>
+      <button class="btn" onclick="info()">Console info</button>
+      <button class="btn" onclick="assert()">Check for true/false</button>
+      <button class="btn" onclick="clearing()">Clear console</button>
+      <button class="btn" onclick="viewDOM()">View DOM elements</button>
+      <button class="btn" onclick="group()">Group console logs</button>
+      <button class="btn" onclick="count()">Count console output</button>
+      <button class="btn" onclick="time()">Get elapsed time</button>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
