@@ -17,6 +17,6 @@ I'll be storing my own projects as I complete them below.
 9. Dev Tools Domination - [check it out!](https://senatrius.github.io/javascript-30/09%20-%20Dev%20Tools%20Domination/)
 10. Check Multiple Checkboxes - [check it out!](https://senatrius.github.io/javascript-30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
 11. Custom Video Player - [check it out!](https://senatrius.github.io/javascript-30/11%20-%20Custom%20Video%20Player/)
-12. Custom Video Player - [check it out!](https://senatrius.github.io/javascript-30/12%20-%20Key%20Sequence%20Detection/)
+12. Key Sequence Detection - [check it out!](https://senatrius.github.io/javascript-30/12%20-%20Key%20Sequence%20Detection/)
 
 Next project coming tomorrow...
