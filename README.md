@@ -18,6 +18,7 @@ I'll be storing my own projects as I complete them below.
 10. Check Multiple Checkboxes - [check it out!](https://senatrius.github.io/javascript-30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
 11. Custom Video Player - [check it out!](https://senatrius.github.io/javascript-30/11%20-%20Custom%20Video%20Player/)
 12. Key Sequence Detection - [check it out!](https://senatrius.github.io/javascript-30/12%20-%20Key%20Sequence%20Detection/)
-12. Slide in on Scroll - [check it out!](https://senatrius.github.io/javascript-30/13%20-%20Slide%20in%20on%20Scroll/)
+13. Slide in on Scroll - [check it out!](https://senatrius.github.io/javascript-30/13%20-%20Slide%20in%20on%20Scroll/)
+14. Slide in on Scroll - No actual project, just learned how copying and referencing works.
 
 Next project coming tomorrow...
