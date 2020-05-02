@@ -19,6 +19,7 @@ I'll be storing my own projects as I complete them below.
 11. Custom Video Player - [check it out!](https://senatrius.github.io/javascript-30/11%20-%20Custom%20Video%20Player/)
 12. Key Sequence Detection - [check it out!](https://senatrius.github.io/javascript-30/12%20-%20Key%20Sequence%20Detection/)
 13. Slide in on Scroll - [check it out!](https://senatrius.github.io/javascript-30/13%20-%20Slide%20in%20on%20Scroll/)
-14. Slide in on Scroll - No actual project, just learned how copying and referencing works.
+14. Copy VS Reference - No actual project, just learned how copying and referencing works.
+15. Local Storage and Event Delegation - [check it out!](https://senatrius.github.io/javascript-30/15%20-%20LocalStorage)
 
 Next project coming tomorrow...
