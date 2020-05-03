@@ -21,5 +21,6 @@ I'll be storing my own projects as I complete them below.
 13. Slide in on Scroll - [check it out!](https://senatrius.github.io/javascript-30/13%20-%20Slide%20in%20on%20Scroll/)
 14. Copy VS Reference - No actual project, just learned how copying and referencing works.
 15. Local Storage and Event Delegation - [check it out!](https://senatrius.github.io/javascript-30/15%20-%20LocalStorage)
+16. Mouse Move Shadow - [check it out!](https://senatrius.github.io/javascript-30/16%20-%20Mouse%20Move%20Shadow)
 
 Next project coming tomorrow...
