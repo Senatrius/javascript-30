@@ -25,5 +25,6 @@ I'll be storing my own projects as I complete them below.
 17. Sort Without Articles - [check it out!](https://senatrius.github.io/javascript-30/17%20-%20Sort%20Without%20Articles/)
 18. Adding Up Times With Reduce - [check it out!](https://senatrius.github.io/javascript-30/18%20-%20Adding%20Up%20Times%20with%20Reduce/)
 19. Webcam Fun - [check it out!](https://senatrius.github.io/javascript-30/19%20-%20Webcam%20Fun/)
+20. Speech Detection - [check it out!](https://senatrius.github.io/javascript-30/20%20-%20Speech%20Detection/)
 
 Next project coming tomorrow...
