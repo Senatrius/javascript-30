@@ -26,5 +26,6 @@ I'll be storing my own projects as I complete them below.
 18. Adding Up Times With Reduce - [check it out!](https://senatrius.github.io/javascript-30/18%20-%20Adding%20Up%20Times%20with%20Reduce/)
 19. Webcam Fun - [check it out!](https://senatrius.github.io/javascript-30/19%20-%20Webcam%20Fun/)
 20. Speech Detection - [check it out!](https://senatrius.github.io/javascript-30/20%20-%20Speech%20Detection/)
+21. Geolocation Speedometer and Compass - [check it out!](https://senatrius.github.io/javascript-30/21%20-%20Geolocation/)
 
 Next project coming tomorrow...
