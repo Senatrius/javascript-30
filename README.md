@@ -28,5 +28,6 @@ I'll be storing my own projects as I complete them below.
 20. Speech Detection - [check it out!](https://senatrius.github.io/javascript-30/20%20-%20Speech%20Detection/)
 21. Geolocation Speedometer and Compass - [check it out!](https://senatrius.github.io/javascript-30/21%20-%20Geolocation/)
 22. Follow Along Nav - [check it out!](https://senatrius.github.io/javascript-30/22%20-%20Follow%20Along%20Link%20Highlighter/)
+23. Speech Synthesis - [check it out!](https://senatrius.github.io/javascript-30/22%20-%20Speech%20Synthesis/)
 
 Next project coming tomorrow...
