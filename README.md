@@ -31,5 +31,6 @@ I'll be storing my own projects as I complete them below.
 23. Speech Synthesis - [check it out!](https://senatrius.github.io/javascript-30/23%20-%20Speech%20Synthesis/)
 24. Sticky Nav - [check it out!](https://senatrius.github.io/javascript-30/24%20-%20Sticky%20Nav/)
 25. Event Capture, Propagation, Bubbling and Once - [check it out!](https://senatrius.github.io/javascript-30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/)
+26. Stripe Follow Along Nav - [check it out!](https://senatrius.github.io/javascript-30/26%20-%20Stripe%20Follow%20Along%20Nav/)
 
 Next project coming tomorrow...
