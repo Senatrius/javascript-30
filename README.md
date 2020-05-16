@@ -33,6 +33,7 @@ I'll be storing my own projects as I complete them below.
 25. Event Capture, Propagation, Bubbling and Once - [check it out!](https://senatrius.github.io/javascript-30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/)
 26. Stripe Follow Along Nav - [check it out!](https://senatrius.github.io/javascript-30/26%20-%20Stripe%20Follow%20Along%20Nav/)
 27. Click and Drag - [check it out!](https://senatrius.github.io/javascript-30/27%20-%20Click%20and%20Drag/)
-28. Click and Drag - [check it out!](https://senatrius.github.io/javascript-30/28%20-%20Video%20Speed%20Controller/)
+28. Video Speed Controller - [check it out!](https://senatrius.github.io/javascript-30/28%20-%20Video%20Speed%20Controller/)
+29. Countdown Timer - [check it out!](https://senatrius.github.io/javascript-30/29%20-%20Countdown%20Timer/)
 
-Next project coming tomorrow...
+Final project coming tomorrow...
