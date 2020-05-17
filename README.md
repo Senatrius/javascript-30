@@ -35,5 +35,4 @@ I'll be storing my own projects as I complete them below.
 27. Click and Drag - [check it out!](https://senatrius.github.io/javascript-30/27%20-%20Click%20and%20Drag/)
 28. Video Speed Controller - [check it out!](https://senatrius.github.io/javascript-30/28%20-%20Video%20Speed%20Controller/)
 29. Countdown Timer - [check it out!](https://senatrius.github.io/javascript-30/29%20-%20Countdown%20Timer/)
-
-Final project coming tomorrow...
+30. Whack A Mole - [check it out!](https://senatrius.github.io/javascript-30/30%20-%20Whack%20A%20Mole/)
