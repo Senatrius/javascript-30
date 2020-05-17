@@ -6,7 +6,8 @@ const timeStop = document.querySelector(".display__end-time");
 
 function timer(seconds) {
 	const startTime = Date.now();
-	const endTime = startTime + seconds * 1000;
+  const endTime = startTime + seconds * 1000;
+  
 
 	clearInterval(countdown);
 	showTimer(seconds, endTime);

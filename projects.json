@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "JavaScript Drum Kit",
+    "thumbnail": "images/1.png",
+    "description": "First day, first project. I've heard about #JavaScript30 before, but never really tried it out as I wanted to get the HTML and CSS basics first. Now that I'm more or less comfortable with those two, it's time to tackle Javascript. In ths project I've learned about using data-* attributes, how to access them and how the audio API works.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/01%20-%20JavaScript%20Drum%20Kit",
+    "page": "https://senatrius.github.io/javascript-30/01%20-%20JavaScript%20Drum%20Kit/"
+  },
+  {
+    "id": 2,
+    "name": "CSS + JS Clock",
+    "thumbnail": "images/2.png",
+    "description": "Second day. Honestly, it wasn't making the clock hands spin that gave me the most trouble with this one. It was making sure the hands are centered correctly and spin like they should. Got it in the end though and learned more about Date() object and how to manipulate it.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/02%20-%20JS%20and%20CSS%20Clock",
+    "page": "https://senatrius.github.io/javascript-30/02%20-%20JS%20and%20CSS%20Clock/"
+  },
+  {
+    "id": 3,
+    "name": "Playing with CSS Variables and JS",
+    "thumbnail": "images/3.png",
+    "description": "Third day. Modifying variables with JS. Not a whole lot of complex JS in this one, just more practice with data-* attributes. These really are starting to seem pretty useful. And repetition when learning new topics never hurt anyone.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/03%20-%20CSS%20Variables",
+    "page": "https://senatrius.github.io/javascript-30/03%20-%20CSS%20Variables/"
+  },
+  {
+    "id": 4,
+    "name": "Array Cardio Day 1",
+    "thumbnail": "images/4.png",
+    "description": "First cardio day, and not an easy one at that. A lot of new array methods like map and sort and reduce. Very useful to know. I've modified the project so each function runs by clicking a button, all of them running at the same time really cluttered the console terminal.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/04%20-%20Array%20Cardio%20Day%201",
+    "page": "https://senatrius.github.io/javascript-30/04%20-%20Array%20Cardio%20Day%201/"
+  },
+  {
+    "id": 5,
+    "name": "Flex Panels Image Gallery",
+    "thumbnail": "images/5.jpg",
+    "description": "Fifth project was a pretty neat effect. Worked with a new event listener 'transitionend', will be keeping that one in mind when I work with animations in the future.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/05%20-%20Flex%20Panel%20Gallery",
+    "page": "https://senatrius.github.io/javascript-30/05%20-%20Flex%20Panel%20Gallery/"
+  },
+  {
+    "id": 6,
+    "name": "Ajax Type Ahead",
+    "thumbnail": "images/6.png",
+    "description": "I was always curious how the input prediction was achieved. Although I'm sure real apps use databases for these things, there were still new things to learn. Learned more about RegExp as well as finding and replacing strings.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/06%20-%20Type%20Ahead",
+    "page": "https://senatrius.github.io/javascript-30/06%20-%20Type%20Ahead/"
+  },
+  {
+    "id": 7,
+    "name": "Array Cardio Day 2",
+    "thumbnail": "images/7.png",
+    "description": "Second cardio day. This one felt much easier than the last one. And just like the last one, I made it so everything doesn't run all at once, just to keep my sanity. Learned mor new array methods like some and every. Feels not as commonly used as map and reduce might be, but still good to know.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/07%20-%20Array%20Cardio%20Day%202",
+    "page": "https://senatrius.github.io/javascript-30/07%20-%20Array%20Cardio%20Day%202/"
+  },
+  {
+    "id": 8,
+    "name": "Fun with HTML5 Canvas",
+    "thumbnail": "images/8.png",
+    "description": "A lot of new concepts today. Canvases, 2d and 3d contexts, innerWidth, innerHeight and more. This one was fun. Also I guess I know how those bootleg 'painting' programs are made now, some of which aren't much more involved than this project.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas",
+    "page": "https://senatrius.github.io/javascript-30/08%20-%20Fun%20with%20HTML5%20Canvas/"
+  },
+  {
+    "id": 9,
+    "name": "14 Must Know Dev Tools Tricks",
+    "thumbnail": "images/9.png",
+    "description": "Learned a whole bunch of new console.* commands today. Didn't even know most of these existed. I don't feel advanced enough to know which situations they're used for, but it's good to know them regardless.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/09%20-%20Dev%20Tools%20Domination",
+    "page": "https://senatrius.github.io/javascript-30/09%20-%20Dev%20Tools%20Domination/"
+  },
+  {
+    "id": 10,
+    "name": "Hold Shift to Check Multiple Checkboxes",
+    "thumbnail": "images/10.png",
+    "description": "This is one of those effects that you don't even think about being there. An important part of overall UX, glad to have learned this one. Learned about event.shiftKey which I can probably use in other projects in the future as well.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes",
+    "page": "https://senatrius.github.io/javascript-30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/"
+  },
+  {
+    "id": 11,
+    "name": "Custom HTML5 Video Player",
+    "thumbnail": "images/11.png",
+    "description": "Making a custom video player, honestly it not as daunting of a task as I thought it would be when I read the title. Learned a lot about HTML5 Video API, how to change volume, speed and position in the video. Not bad over all.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/11%20-%20Custom%20Video%20Player",
+    "page": "https://senatrius.github.io/javascript-30/11%20-%20Custom%20Video%20Player/"
+  },
+  {
+    "id": 12,
+    "name": "Key Sequence Detection",
+    "thumbnail": "images/12.png",
+    "description": "Ah, this one did bring back some memories. Used the switch() statement to replace the symbols when typing them, inadvertently learned about HTML entities while researching how to do that. Overall a productive day.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/12%20-%20Key%20Sequence%20Detection",
+    "page": "https://senatrius.github.io/javascript-30/12%20-%20Key%20Sequence%20Detection/"
+  },
+  {
+    "id": 13,
+    "name": "Slide In on Scroll",
+    "thumbnail": "images/13.png",
+    "description": "Animation slide-in on elements, a pretty cool effect. Used to be very popular in the past, always wondered how to do that. Learned more about positioning and page offset. Feels a bit wonky when changing screen size, something to look into later.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/13%20-%20Slide%20in%20on%20Scroll",
+    "page": "https://senatrius.github.io/javascript-30/13%20-%20Slide%20in%20on%20Scroll/"
+  },
+  {
+    "id": 14,
+    "name": "Objects and Arrays - Reference VS Copy",
+    "thumbnail": null,
+    "description": "No project today, but an important lesson regardless. This felt like one of those things that every aspiring programmer should learn early. Important and useful.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/14%20-%20JavaScript%20References%20VS%20Copying",
+    "page": null
+  },
+  {
+    "id": 15,
+    "name": "LocalStorage and Event Delegation",
+    "thumbnail": "images/15.png",
+    "description": "Local storage and event delegation, both seem like they're very in-depth topics, and a very good introducton to both.Learned a bit about working with JSON, using parse and stringify, as well as how to add and remove items from local storage using setItem and removeItem.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/15%20-%20LocalStorage",
+    "page": "https://senatrius.github.io/javascript-30/15%20-%20LocalStorage"
+  },
+  {
+    "id": 16,
+    "name": "CSS Text Shadow Mouse Move Effect",
+    "thumbnail": "images/16.png",
+    "description": "Well, I don't know how often I'll be using this one, but it's definitely a fun effect to play around with. More practice with position and various offset properties, pretty cool.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/16%20-%20Mouse%20Move%20Shadow",
+    "page": "https://senatrius.github.io/javascript-30/16%20-%20Mouse%20Move%20Shadow/"
+  },
+  {
+    "id": 17,
+    "name": "Sorting Band Names without articles",
+    "thumbnail": "images/17.png",
+    "description": "Sorting the list of names, seemed simple at first. And then I learned more about RegExp. Making sort work the way I want took a little while as well. Most important lesson learned today is that I need to go back and read about array.sort() method.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/17%20-%20Sort%20Without%20Articles",
+    "page": "https://senatrius.github.io/javascript-30/17%20-%20Sort%20Without%20Articles/"
+  },
+  {
+    "id": 18,
+    "name": "Tally String Times with Reduce",
+    "thumbnail": "images/18.png",
+    "description": "More practice with data-* attributes today, as well as formatting seconds into hours, minutes and seconds. JavaScript Really needs to have a simpler way of doing this.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce",
+    "page": "https://senatrius.github.io/javascript-30/18%20-%20Adding%20Up%20Times%20with%20Reduce/"
+  },
+  {
+    "id": 19,
+    "name": "Unreal Webcam Fun",
+    "thumbnail": "images/19.png",
+    "description": "Well, I don't own a webcam currently, but I tried to internalize as much about this lesson as I could. Learned about navigator.mediaDevices as well as more practice with the canvas object.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/19%20-%20Webcam%20Fun",
+    "page": "https://senatrius.github.io/javascript-30/19%20-%20Webcam%20Fun/"
+  },
+  {
+    "id": 20,
+    "name": "Native Speech Recognition",
+    "thumbnail": "images/20.png",
+    "description": "Dang, don't have a working mic either. Like the last one, tried to make sense of it as much as I could. Learned about SpeechRecognition API and an 'end' event listener.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/20%20-%20Speech%20Detection",
+    "page": "https://senatrius.github.io/javascript-30/20%20-%20Speech%20Detection/"
+  },
+  {
+    "id": 21,
+    "name": "Geolocation based Speedometer and Compass",
+    "thumbnail": "images/21.png",
+    "description": "This one took a little bit of time setting up, but I more or less got it to work in the end. Learned more about how geolocation API works, got to get data from it and display it on the screen. Not an easy one but a fun one today.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/21%20-%20Geolocation",
+    "page": "https://senatrius.github.io/javascript-30/21%20-%20Geolocation/"
+  },
+  {
+    "id": 22,
+    "name": "Follow Along Links",
+    "thumbnail": "images/22.png",
+    "description": "This is an interesting effect, had more practice with position and offsetting elements, again. Also learned that getBoundingClientRect() can be used to get various data about a specific element like its width, height and its position on the screen.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/22%20-%20Follow%20Along%20Link%20Highlighter",
+    "page": "https://senatrius.github.io/javascript-30/22%20-%20Follow%20Along%20Link%20Highlighter/"
+  },
+  {
+    "id": 23,
+    "name": "Speech Synthesis",
+    "thumbnail": "images/23.png",
+    "description": "This one had some... trouble along the way. Primarily because windows machine using a firefox browser doesn't really have a big (or any) variety of voices to pick from, so I can't be sure it entirely works, but I digress. Learned more about speechSynthesis, as well as couple new event listeners - voicesChanged and change.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/23%20-%20Speech%20Synthesis",
+    "page": "https://senatrius.github.io/javascript-30/23%20-%20Speech%20Synthesis/"
+  },
+  {
+    "id": 24,
+    "name": "Sticky Nav",
+    "thumbnail": "images/24.png",
+    "description": "More offset, more positioning, slowly starting to get the hang of it. Although throughout it I couldn't help but think 'why not use position:sticky instead' but the javascript effect where logo appears once it's scrolled down far enough it's pretty cool. Will be looking into this one more on my own.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/24%20-%20Sticky%20Nav",
+    "page": "https://senatrius.github.io/javascript-30/24%20-%20Sticky%20Nav/"
+  },
+  {
+    "id": 25,
+    "name": "Event Capture and Propagation",
+    "thumbnail": "images/25.png",
+    "description": "Just like the copying and referencing project, this one felt like one of those things that everyone who's serious about learning programming should know. Will be doing more research about this one. Also learned about stopPropagation() and once(), both of which sounds pretty important.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once",
+    "page": "https://senatrius.github.io/javascript-30/25%20-%20Event%20Capture,%20Propagation,%20Bubbling%20and%20Once/"
+  },
+  {
+    "id": 26,
+    "name": "Stripe Dropdown",
+    "thumbnail": "images/26.png",
+    "description": "This is where 'Follow Along Links' project comes into play, this time putting it to real use. Pretty cool, gotta say. Props to Stripe for coming up with this one. More practice with getClientBoundingRect and even more practice with element positioning. A simple yet very cool navigation effect.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/26%20-%20Stripe%20Follow%20Along%20Nav",
+    "page": "https://senatrius.github.io/javascript-30/26%20-%20Stripe%20Follow%20Along%20Nav/"
+  },
+  {
+    "id": 27,
+    "name": "Click and Drag to Scroll",
+    "thumbnail": "images/27.png",
+    "description": "Click and drag, a seemingly simple effect which is not at all simple to create. Learned about perspective property as well, which I honestly quite like. Think I'll be sticking to using frameworks for this one though.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/27%20-%20Click%20and%20Drag",
+    "page": "https://senatrius.github.io/javascript-30/27%20-%20Click%20and%20Drag/"
+  },
+  {
+    "id": 28,
+    "name": "Video Speed Controller",
+    "thumbnail": "images/28.png",
+    "description": "Coming back to HTML5 Video again, this time making speed change a bit more interactive. A nice little refresher or working with the API, also learned about .toFixed() which seems really nice.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/28%20-%20Video%20Speed%20Controller",
+    "page": "https://senatrius.github.io/javascript-30/28%20-%20Video%20Speed%20Controller/"
+  },
+  {
+    "id": 29,
+    "name": "Countdown Clock",
+    "thumbnail": "images/29.png",
+    "description": "Countdown clock, ah haven't had good chance to practice with Date() objects since the second project 3 weeks ago. Learned more about getting time from seconds, as well as new things like adding and subtracting time from each other. Pretty interesting. Also after my own research, learned about .padStart() function which adds leading characters to the string. Sadly doesn't work with integers though.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/29%20-%20Countdown%20Timer",
+    "page": "https://senatrius.github.io/javascript-30/29%20-%20Countdown%20Timer/"
+  },
+  {
+    "id": 30,
+    "name": "Whack-a-Mole Game",
+    "thumbnail": "images/30.png",
+    "description": "And there it is, final project, a whack-a-mole game. Some good practice dealing with setInterval and setTimeout, as well as localStorage as I added the high score display. Quite a fun project to end this month long journey on. 30 projects completed, and in Wesbos' words, only 970 to go.",
+    "repo": "https://github.com/Senatrius/javascript-30/tree/master/30%20-%20Whack%20A%20Mole",
+    "page": "https://senatrius.github.io/javascript-30/30%20-%20Whack%20A%20Mole/"
+  }
+]

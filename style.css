@@ -1,0 +1,144 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #ffc600;
+}
+
+.container {
+  width: 90%;
+  height: 100vh;
+  max-width: 1280px;
+  display: flex;
+  margin: 0 auto;
+  box-shadow: .3rem 0 1rem hsla(0, 0%, 0%, 20%), -.3rem 0 1rem hsla(0, 0%, 0%, 20%);
+}
+
+.nav {
+  flex: 0 0 40%;
+  background: white;
+}
+
+.nav__list {
+  max-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  scrollbar-width: thin;
+}
+
+.btn {
+  font-size: 16px;
+  padding: .8rem 1.25rem;
+  text-align: left;
+  background: white;
+  outline: none;
+  border: none;
+  position: relative;
+  cursor: pointer;
+}
+
+.btn::before {
+  content: '';
+  position: absolute;
+  display: inline-block;
+  height: 100%;
+  top: 0;
+  left: 0;
+  width: 0rem;
+  background: #ffc600;
+  transition: .1s linear;
+}
+
+.btn:hover::before, .btn:focus:before {
+  width: .4rem;
+}
+
+.btn:not(:last-child) {
+  border-bottom: 1px solid black;
+}
+
+.display {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2rem;
+  flex: 1;
+  overflow-y: auto;
+  scrollbar-width: thin;
+  background: whitesmoke;
+  box-shadow: inset .1rem 0 .5rem hsla(0, 0%, 0%, 20%);
+}
+
+.display .change {
+  animation: change 2s forwards ease-in-out;
+}
+
+.title {
+  font-size: 3.5rem;
+  margin-bottom: -.25rem;
+}
+
+.subtitle {
+  font-size: 1.4rem;
+}
+
+.thumbnail {
+  width: 80%;
+  height: auto;
+  margin: 2rem 0 1rem;
+}
+
+.btns {
+  display: flex;
+  margin-bottom: 2rem;
+}
+
+.link-btn {
+  padding: .8rem 1.5rem;
+  text-decoration: none;
+  background: #ffc600;
+  margin-right: .5rem;
+  font-weight: 600;
+  color: black;
+  transition: .1s linear;
+}
+
+.link-btn:hover, .link-btn:focus {
+  box-shadow: .2rem .25rem .2rem hsla(0, 0%, 0%, 10%);
+}
+
+.description {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+@keyframes change {
+  0% {
+    opacity: 1;
+    transform: translateY(0px);
+  }
+  30% {
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(50px);
+  }
+  70% {
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-50px);
+  }
+  100% {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0px);
+  }
+}
